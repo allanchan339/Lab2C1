@@ -1,0 +1,4 @@
+#ifdef _LAB2C1_USER_SETUP_H_
+#define _LAB2C1_USER_SETUP_H_
+
+#endif //_LAB2C1_USER_SETUP_H_
